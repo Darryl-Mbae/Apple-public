@@ -4,20 +4,7 @@ A modern, responsive replica of the official Apple iPhone 15 product landing pag
 
 [Visit the Website](https://dm-apple.netlify.app/)
 
-### 💻 Desktop View
+
 ![image](https://github.com/user-attachments/assets/565cfcd4-8c86-4496-a3d6-2e7c51d8d8c6)
-![image](https://github.com/user-attachments/assets/b12fc961-cc1f-4c5b-ab7b-d125f091b68d)
 
-## 🛠️ Tech Stack
 
-- **React**
-- **Three.js**
-- **GSAP**
-- Responsive design with media queries
-
-## ✨ Features
-
-- Fully responsive layout (mobile, tablet, desktop)
-- Smooth transitions & scroll animations
-- Apple-style clean UI
-- Scroll-based visual effects
